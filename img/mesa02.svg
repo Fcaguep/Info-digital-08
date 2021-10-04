@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 480 397.5" style="enable-background:new 0 0 480 397.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#383838;}
+	.st1{font-family:'Arial-BoldMT';}
+	.st2{font-size:14px;}
+	.st3{opacity:0.5;}
+	.st4{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:1;}
+	.st5{fill:#231F20;stroke:#231F20;stroke-miterlimit:10;}
+	.st6{fill:#231F20;}
+	.st7{font-family:'ArialMT';}
+	.st8{fill:#77787B;}
+</style>
+<image style="overflow:visible;enable-background:new    ;" width="1920" height="926" xlink:href="time-hkg.png"  transform="matrix(0.5 0 0 0.5 -480 -65.5388)">
+</image>
+<g>
+	<g>
+		<text transform="matrix(1 0 0 1 171.4057 -2.7578)" class="st0 st1 st2">LUNES 11pm, 12 DE AGOSTO</text>
+	</g>
+</g>
+<g class="st3">
+	<text transform="matrix(1 0 0 1 -347.7253 -2.7578)" class="st0 st1 st2">LUNES 11pm, 5 DE AGOSTO</text>
+</g>
+<g>
+	<g>
+		<g>
+			<path class="st4" d="M-275.6,227.7c-2.3-12.6-14.2-21.1-26.9-19.1"/>
+			<g>
+				<polygon points="-274,225.6 -274.4,225.4 -275.7,227.5 -277.7,226.1 -278,226.5 -275.5,228.2 				"/>
+			</g>
+		</g>
+	</g>
+	<path class="st5" d="M-252.1,67c-1.4,0-2.5,1.1-2.5,2.5s1.1,2.5,2.5,2.5s2.5-1.1,2.5-2.5S-250.7,67-252.1,67"/>
+	<path class="st5" d="M-61.6,110.5c-1.4,0-2.5,1.1-2.5,2.5s1.1,2.5,2.5,2.5s2.5-1.1,2.5-2.5S-60.2,110.5-61.6,110.5"/>
+	<path class="st5" d="M-381.3,308.6c-1.4,0-2.5,1.1-2.5,2.5s1.1,2.5,2.5,2.5c1.4,0,2.5-1.1,2.5-2.5S-379.9,308.6-381.3,308.6"/>
+	<path class="st5" d="M-165.8,91.5c-1.4,0-2.5,1.1-2.5,2.5s1.1,2.5,2.5,2.5s2.5-1.1,2.5-2.5S-164.4,91.5-165.8,91.5"/>
+	<text transform="matrix(1 0 0 1 -244.6915 74.2842)" class="st6 st7 st2">Beijing</text>
+	<text transform="matrix(1 0 0 1 -441.5051 315.2571)" class="st8 st7 st2">Bangkok</text>
+	<g>
+		<text transform="matrix(1 0 0 1 -56.6946 117.4871)" class="st8 st7 st2">Tokio</text>
+	</g>
+	<text transform="matrix(1 0 0 1 -379.3723 210.4234)" class="st6 st7 st2">Hong Kong</text>
+</g>
+<g>
+	<g>
+		<g>
+			<path class="st4" d="M204.7,229.4c-1.2-6-7-10.1-13.1-9.1"/>
+			<g>
+				<polygon points="206.3,227.3 205.8,227 204.6,229.2 202.6,227.9 202.3,228.3 204.8,229.9 				"/>
+			</g>
+		</g>
+	</g>
+	<path class="st5" d="M226.4,65c-1.4,0-2.5,1.1-2.5,2.5s1.1,2.5,2.5,2.5s2.5-1.1,2.5-2.5S227.7,65,226.4,65"/>
+	<path class="st5" d="M97.2,306.6c-1.4,0-2.5,1.1-2.5,2.5s1.1,2.5,2.5,2.5s2.5-1.1,2.5-2.5S98.5,306.6,97.2,306.6"/>
+	<path class="st5" d="M312.7,89.5c-1.4,0-2.5,1.1-2.5,2.5s1.1,2.5,2.5,2.5s2.5-1.1,2.5-2.5S314.1,89.5,312.7,89.5"/>
+	<text transform="matrix(1 0 0 1 231.7814 72.2842)" class="st6 st7 st2">Beijing</text>
+	<text transform="matrix(1 0 0 1 272.3242 95.7461)" class="st8 st7 st2">Seoul</text>
+	<text transform="matrix(1 0 0 1 36.9677 313.2571)" class="st8 st7 st2">Bangkok</text>
+	<text transform="matrix(1 0 0 1 118.9548 223.1318)" class="st6 st7 st2">Hong Kong</text>
+	<text transform="matrix(1 0 0 1 -158.4559 93.9611)" class="st8 st7 st2">Seoul</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 421.4568 107.4637)" class="st8 st7 st2">Tokio</text>
+</g>
+</svg>
